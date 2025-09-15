@@ -1,4 +1,4 @@
-# Financial Engineering with AI and Blockchain - Python Code Repository
+# Financial Engineering with AI and Blockchain - Python Code Repository by Dr Nikhil Varma
 
 This repository contains Python code extracted from the comprehensive textbook "Financial Engineering with AI and Blockchain: A 24-Month Learning Journey for High School Students". The code has been organized into modules that demonstrate key concepts in financial analysis, data science, and quantitative finance.
 
@@ -172,7 +172,7 @@ This code is provided for educational purposes. Please refer to the original tex
 
 ## Acknowledgments
 
-Code extracted from "Financial Engineering with AI and Blockchain: A 24-Month Learning Journey for High School Students" - a comprehensive educational resource bridging traditional finance with modern technology.
+Code from "Financial Engineering with AI and Blockchain: A 24-Month Learning Journey for High School Students" - a comprehensive educational resource bridging traditional finance with modern technology.
 
 ---
 
